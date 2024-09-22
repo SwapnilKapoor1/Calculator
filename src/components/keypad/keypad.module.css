@@ -1,0 +1,17 @@
+.container{
+    display:block;
+    background-color: rgb(216, 211, 211);
+}
+button{
+    width:24.7%;
+    height:4rem;
+    font-size: x-large;
+    border-radius:10px;
+    margin:0.4px;
+}
+.zero{
+    width:49.5%;
+}
+.row button:last-child{
+    background-color: orange;
+}
