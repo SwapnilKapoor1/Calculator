@@ -50,3 +50,6 @@ To start the development server, run:
 
 ```bash
 npm start
+
+Hosted Link : 
+https://calculator-1qbb.onrender.com/
