@@ -4,7 +4,7 @@ import style from "./main.module.css"
 
 function Main() {
     return(
-    <div className={style.main}>
+    <div className={style.main}>   {/*displaying screen and keypad*/}
           <Screen/>
           <Keypad/>
     </div>
