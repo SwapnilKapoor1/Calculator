@@ -11,7 +11,7 @@ function Keypad() {
         setExpression('');
     };
 
-    const handleButton = (e) => {
+    const handleButton = (e) => { //handle numeric button
         const val = e.target.innerText;
         if (value === '0' && val !== '.') {
             setValue(val);
